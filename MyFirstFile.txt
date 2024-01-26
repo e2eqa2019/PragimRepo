@@ -1,1 +1,2 @@
-Changes made by Developer2
+Changes made by Developer2.
+Note that Developer1 made changes to this file. 
